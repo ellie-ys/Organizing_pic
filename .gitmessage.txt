@@ -1,0 +1,9 @@
+# Commit convention rule : 날짜-[주제]-내용-상태
+20211126 간단한 스크립트 셋팅
+# ex) 20211029 [Algorithm] Sort Add/Update/Delete
+################
+# 폴더명
+# 빌드 부분 혹은 패키지 매니저 수정사항
+# [chore] 
+################
+

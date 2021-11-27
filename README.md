@@ -34,3 +34,10 @@ node <노드 app 이름> <사용하고자하는 폴더 이름>
     └─feb :<.jpg>
     ...
 ```
+
+refer 
+[노드 입문자](https://nodejs.dev/learn)
+
+[노드 공식 사이트](https://nodejs.org/en/docs/)
+
+
